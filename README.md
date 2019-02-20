@@ -5,7 +5,7 @@ Record all the meetup events
 iDDD 逐章分享導讀分工 如下: 
 https://github.com/ddd-tw
 
-ch1 - Kim
+ch1 - Kim #2019-02-20
 ch2 - Fong,Liu
 ch3 - Eason郭
 ch4 - Harry
@@ -21,21 +21,11 @@ ch13 - Eric
 ch14 - 
 Appendix A+ES - James
 
-## Date
+## 1st meetup
 
-2019-01-26
+Date : 2019-01-26
+Place: StarRocket SpaceA
+Agenda : 
 
-## Place
-
-StarRocket SpaceA
-
-## Agenda
-
-Session 1 : Why DDD Matters
-Workshop : A Fluent way to go through the Domain Driven Design
-
-## Speaker Intro
-
-Kim Kao : 
-
-Arthur Chang : 
+Session 1 : Why DDD Matters - Kim 
+Session 2 : A Fluent way to go through the Domain Driven Design - Authur
