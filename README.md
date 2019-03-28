@@ -25,7 +25,17 @@ https://github.com/ddd-tw
 
 Date : 2019-01-26
 Place: StarRocket SpaceA
-Agenda : 
+Agenda 
 
-Session 1 : Why DDD Matters - Kim 
-Session 2 : A Fluent way to go through the Domain Driven Design - Authur
+* Session 1 : Why DDD Matters - Kim 
+* Session 2 : A Fluent way to go through the Domain Driven Design - Authur
+
+## 2nd meetup
+
+Date : 2019-03-23
+Place: 交通部集思國際會議中心
+Agenda 
+
+* Session 1 : DDD with Clean Architecture, Arthur Chang
+* Session 2 : 團隊協作實戰DDD, Jed Lin
+* Session 3 : Essential capabilities behind Microservices, Kim Kao
