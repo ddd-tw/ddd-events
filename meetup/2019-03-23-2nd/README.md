@@ -1,7 +1,7 @@
 # Domain-Driven Design ( DDD ) Taiwan 2nd Meetup
 
-- Time： 2019/03/23(周六) 13:00(+0800) ~ 17:00(+0800) 
-- Location： GIS 集思交通部國際會議中心 / 台北市 100 中正區杭州南路一段 24 號
+- Date : 2019/03/23(周六) 13:00(+0800) ~ 17:00(+0800) 
+- Place : GIS 集思交通部國際會議中心 / 台北市 100 中正區杭州南路一段 24 號
 - [Registration Page](https://dddtaiwan.kktix.cc/events/dddtaiwan2ndmeetup)
 
 ## Agenda 

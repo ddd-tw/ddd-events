@@ -9,7 +9,7 @@ https://github.com/ddd-tw
 
 * ch1 - Kim #2019-02-20
 * ch2 - Fong,Liu #2019-03-13
-* ch3 - Eason郭
+* ch3 - Eason
 * ch4 - Harry
 * ch5 - Henry
 * ch6 - Brikely
@@ -23,30 +23,45 @@ https://github.com/ddd-tw
 * ch14 - 
 * Appendix A+ES - James
 
-## 1st meetup
+## DDD TW Meetup Records
 
-Date : 2019-01-26
-Place: StarRocket SpaceA
-Agenda
+### 1st meetup
 
-* Session 1 : Why DDD Matters - Kim 
-* Session 2 : A Fluent way to go through the Domain Driven Design - Authur
+- **Date :** 2019/01/26
+- **Place :** StarRocket SpaceA
+- **Agenda :**
+  - **Session 1 :** - Why DDD Matters, by Kim Kao
+  - **Session 2 :** - A Fluent way to go through the Domain Driven Design, by Authur Chang
 
-## 2nd meetup
+- [Detail Information](../master/meetup/2019-01-26-1st/README.md)
 
-Date : 2019-03-23
-Place: 交通部集思國際會議中心
-Agenda
+### 2nd meetup
 
-* Session 1 : DDD with Clean Architecture, Arthur Chang
-* Session 2 : 團隊協作實戰DDD, Jed Lin
-* Session 3 : Essential capabilities behind Microservices, Kim Kao
+- **Date :** 2019/03/23
+- **Place :** GIS 集思交通部國際會議中心
+- **Agenda :**
+  - **Session 1 :** - DDD with Clean Architecture, by Arthur Chang
+  - **Session 2 :** - 團隊協作實戰 DDD, by Jed Lin
+  - **Session 3 :** - Essential capabilities behind Microservices, Kim Kao
 
-## 3rd meetup
+- [Detail Information](../master/meetup/2019-03-23-2nd/README.md)
 
-Date : 2019-04-06
-Place : 天瓏圖書資訊
-Agenda
+### 3rd meetup
 
-* Session 1 : 微服務與DevOps在AWS的日常, 鮑博
-* Session 2 : 問答交流
+- **Date :** 2019/04/06
+- **Place :** 天瓏圖書資訊
+- **Agenda :**
+  - **Session 1 :** - 微服務與 DevOps 在 AWS 的日常, by 鮑博
+  - **Session 2 :** - 問答交流
+
+- [Detail Information](../master/meetup/2019-04-06-3rd/README.md)
+
+### 4th meetup
+
+- **Date :** 2019/05/04
+- **Place :** 集思台大會議中心
+- **Agenda :**
+  - **Session 1** - 領域驅動設計, by Clark
+  - **Session 2** - 我的 LinkedIn 三年開發遊歷, by Ian Tsai (ZanyKing)
+
+- [Detail Information](../master/meetup/2019-05-04-4th/README.md)

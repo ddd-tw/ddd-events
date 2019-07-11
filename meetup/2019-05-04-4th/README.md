@@ -1,7 +1,7 @@
 # Domain-Driven Design ( DDD ) Taiwan 4th Meetup
 
-- Time： 2019/05/04(周六) 13:00(+0800) ~ 17:00(+0800) 
-- Location： 集思台大會議中心 - 阿基米德廳 / 台北市羅斯福路 4 段 85 號 B1
+- Date : 2019/05/04(周六) 13:00(+0800) ~ 17:00(+0800) 
+- Place : 集思台大會議中心 - 阿基米德廳 / 台北市羅斯福路 4 段 85 號 B1
 - [Registration Page](https://dddtaiwan.kktix.cc/events/dddtaiwan4thmeetup)
 
 ## Agenda 

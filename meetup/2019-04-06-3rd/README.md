@@ -1,13 +1,12 @@
 # Domain-Driven Design ( DDD ) Taiwan 3rd Meetup
 
-- Time： 2019/04/06(周六) 13:30(+0800) ~ 16:00(+0800)
-- 天瓏書局 / 100 台北市中正區重慶南路一段 105 號
-- Location： GIS 集思交通部國際會議中心 / 台北市 100 中正區杭州南路一段 24 號
+- Date : 2019/04/06(周六) 13:30(+0800) ~ 16:00(+0800)
+- Place : 天瓏書局 / 100 台北市中正區重慶南路一段 105 號
 - [Registration Page](https://dddtaiwan.kktix.cc/events/dddtaiwan3rdmeetup)
 
 ## Agenda 
 
-- **Session 1** - 微服務與 DevOps 在 AWS 的日常, 鲍博
+- **Session 1** - 微服務與 DevOps 在 AWS 的日常, by 鲍博
 - **Session 2** - 問答交流
 
 ## Speakers & Talks
