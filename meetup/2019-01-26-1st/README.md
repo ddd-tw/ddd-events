@@ -1,4 +1,4 @@
-# Domain-Driven Design ( DDD ) Taiwan 2nd Meetup
+# Domain-Driven Design ( DDD ) Taiwan 1st Meetup
 
 - Date : 2019/01/26 14:30 – 18:30
 - Place : 三創育成基金會 StarRocket SpaceA / 台北市台北市中正區市民大道三段 2 號 11 樓
