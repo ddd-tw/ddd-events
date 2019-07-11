@@ -1,4 +1,4 @@
-# Domain-Driven Design ( DDD ) Taiwan 2rd Meetup
+# Domain-Driven Design ( DDD ) Taiwan 2nd Meetup
 
 - Time： 2019/03/23(周六) 13:00(+0800) ~ 17:00(+0800) 
 - Location： GIS 集思交通部國際會議中心 / 台北市 100 中正區杭州南路一段 24 號
@@ -6,13 +6,13 @@
 
 ## Agenda 
 
-- **Session 1** - DDD with Clean Architecture, Arthur Chang
-- **Session 2** - 團隊協作實戰 DDD, Jed Lin
-- **Session 3** - Essential capabilities behind Microservices, Kim Kao
+- **Session 1** - DDD with Clean Architecture, by Arthur Chang
+- **Session 2** - 團隊協作實戰 DDD, by Jed Lin
+- **Session 3** - Essential capabilities behind Microservices, by Kim Kao
 
 ## Speakers & Talks
 
-###  1. DDD with Clean Architecture, Arthur Chang
+###  1. DDD with Clean Architecture
 
 **About Arthur :**
 
