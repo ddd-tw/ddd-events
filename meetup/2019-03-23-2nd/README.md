@@ -43,6 +43,7 @@
 並且從戰略層面決定架構策略，從戰術層面實作系統細節。
 
 **Side :** [團隊協作實戰 DDD](https://www.slideshare.net/JedLin1/ddd-137872550?)
+
 **Sample Code :** [DDD.Example.LightShop](https://github.com/jed1978/DDD.Example.LightShop)
 
 ### Essential capabilities behind Microservices
@@ -65,4 +66,5 @@
 但是在真的投入實踐微服務之前，有些事情我們得先了解，很多領導人與團隊經常會思考著，似乎引入所謂的"微服務"就能解決這些問題，但你知道在走入微服務之前還有哪些基本要件你需要先知道的？在這個議程當中我們將探討，你(妳)認為什麼是微服務，他該具有哪些面貌? 為何你需要把一個系統做成這樣? 一但確認需要作成微服務時我們應當關注的非功能性需求，此外也在聊聊關於實作上經常會面臨的交易問題。
 
 **Side :** [Essential capabilities behind Microservices](https://www.slideshare.net/kimKao/2019-03232ndmeetupessential-capabilities-behind-microservices-137920646)
+
 **Sample Code :** [Lambda-saga-pattern](https://github.com/humank/lambda-saga-pattern)
