@@ -70,6 +70,17 @@ https://github.com/ddd-tw
 - [Detail Information](../master/meetup/2019-05-04-4th/README.md)
 
 
+### 5th meetup
+
+- **Date :** 2019/07/27
+- **Place :** 崇友人文講堂 A+B 教室
+- **Agenda :**
+  - **Session 1** - 跟著 ActorModel 來一場與 DDD 的豔遇, by 軟體主廚
+  - **Session 2** - 從需求直面系統實作，DDD 的領域建模, by Michael Chen 
+
+- [Detail Information](../master/meetup/2019-07-27-5th/README.md)
+
+
 ## Domain-Driven Design (DDD) 能為你解決什麼問題
 
 **To 身在軟體業的你 :**
