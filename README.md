@@ -80,7 +80,7 @@ Here is a collection place from Domain-Driven Design Taiwan recording all the me
   - Speaker : Kim
   - Date : 2019/08/01(周四) 
   - [Registration Page](https://dddtaiwan.kktix.cc/events/iddd-studygroup-9th-final)
-  - Slide : 
+  - Slide : [Aggregate + Event Sourcing](https://www.slideshare.net/kimKao/2019-0801i-dddstudygroupappendix)
 
 
 ## DDD TW Meetup Records
