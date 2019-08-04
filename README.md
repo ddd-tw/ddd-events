@@ -35,12 +35,12 @@ Here is a collection place from Domain-Driven Design Taiwan recording all the me
   - Speaker : Brinkly
   - Date : 2019/06/19(周三)
   - [Registration Page](https://dddtaiwan.kktix.cc/events/iddd-studygroup-6th)
-  - Slide : 
+  - Slide : [DDD Reading Club Sharing - Ch. 6 Value Object](https://www.slideshare.net/YiChengKuo1/ddd-reading-club-sharingch-6-value-object)
 - **Chapter 7: Domain Services**
   - Speaker : Eric
   - Date : 2019/08/01(周四) 
   - [Registration Page](https://dddtaiwan.kktix.cc/events/iddd-studygroup-9th-final)
-  - Slide : 
+  - Slide : [Iddd domain service](https://www.slideshare.net/EricGHuang/iddd-domain-service?fbclid=IwAR2yslc5SlAySqEcku44V5BNU8IE7N58-QwsyQsiM3_6Vd6PvbUIfKFjWdk)
 - **Chapter 8: Domain Events**
   - Speaker : Tim
   - Date : 2019/07/17(周三) 
@@ -75,7 +75,8 @@ Here is a collection place from Domain-Driven Design Taiwan recording all the me
   - Speaker : Alu
   - Date : 2019/08/01(周四) 
   - [Registration Page](https://dddtaiwan.kktix.cc/events/iddd-studygroup-9th-final)
-  - Slide : 
+  - Slide : [Iddd ch14](https://www.slideshare.net/BoHaoChen3/iddd-ch14)
+  - Sample Code : [Double Dispatch](https://github.com/alu243/DoubleDispatch)
 - **Appendix A: Aggregates and Event Sourcing: A+ES**
   - Speaker : Kim
   - Date : 2019/08/01(周四) 
