@@ -24,6 +24,9 @@
 
 **Side :** [領域驅動設計](https://www.slideshare.net/kimKao/ddd-byclark-chou)
 
+**[Video Record](https://www.youtube.com/watch?v=gX5oB4fgX6U&fbclid=IwAR0w4AjAkpbJiwf_qrZCDHV2kGxGftgqzPd_Bf-c8w-ZDbvq6wuzB6xOzT8)**
+
+
 ### 2. 我的 LinkedIn 三年開發遊歷
 
 **About Ian Tsai :**
@@ -63,3 +66,5 @@ Backend engineer，Taiwan java User Group 成員，在台灣做了十年開發�
 
 
 **Side :** [我的 LinkedIn 三年開發遊歷](https://www.slideshare.net/kimKao/my-past3-yeasdeveloperjourneyatlinkedinbyiantsai)
+
+**[Video Record](https://www.youtube.com/watch?v=oVqQLoiW4Hk&fbclid=IwAR28DrhHAviwltJsAY76QxkBlhEnRl0uuMDI5KBblu9NZ0pNr_NlYXWkj7A)**
