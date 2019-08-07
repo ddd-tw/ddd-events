@@ -42,12 +42,12 @@
   - Speaker : Tim
   - Date : 2019/07/17(周三) 
   - [Registration Page](https://dddtaiwan.kktix.cc/events/iddd-studygroup-8th)
-  - Slide : 
+  - Slide : [IDDD Ch.08 Domain Event](https://www.slideshare.net/YiChengKuo1/iddd-ch08-domain-event)
 - **Chapter 9: Modules**
   - Speaker : Ean
   - Date : 2019/07/17(周三) 
   - [Registration Page](https://dddtaiwan.kktix.cc/events/iddd-studygroup-8th)
-  - Slide : 
+  - Slide : [IDDD 讀書會 第九章](https://www.slideshare.net/YiChengKuo1/iddd-ch09-module)
 - **Chapter 10: Aggregates**
   - Speaker : 國昭 (Authur)
   - Date : 2019/07/03(周三) 
